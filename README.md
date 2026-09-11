@@ -26,4 +26,11 @@ My main focus throughout this journey is understanding how to build, manage, aut
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EmilioSA-JK&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=EmilioSA-JK&theme=merko"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
