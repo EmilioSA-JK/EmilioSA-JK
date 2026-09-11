@@ -30,7 +30,7 @@ My main focus throughout this journey is understanding how to build, manage, aut
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=EmilioSA-JK&theme=vue-dark"
+      src="https://streak-stats.demolab.com/?user=EmilioSA-JK&theme=algolia"
       alt="GitHub Streak"
     />
   </a>
