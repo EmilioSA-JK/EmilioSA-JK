@@ -24,4 +24,6 @@ My main focus throughout this journey is understanding how to build, manage, aut
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EmilioSA-JK&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EmilioSA-JK&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
