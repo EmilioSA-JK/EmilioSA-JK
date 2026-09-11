@@ -24,4 +24,4 @@ My main focus throughout this journey is understanding how to build, manage, aut
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
 <br />
 
-![Emilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioSA-JK&show_icons=true&theme=merko)
+![Emilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmiloSA-JK&show_icons=true&theme=tokyonight)
