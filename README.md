@@ -16,13 +16,13 @@ My main focus throughout this journey is understanding how to build, manage, aut
 
 ### 🎭 Technologies
 <p align="center">
-  <img alt="C" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="Python" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Bash" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-  <img alt="MySQL" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="Cisco" width="30px" style="margin-right:8px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cisco-icon.png" />
-  <img alt="AWS" width="30px" style="margin-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Debian" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+  <img alt="C" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img alt="Python" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Bash" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img alt="MySQL" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Cisco" width="40px" style="margin-right:15px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cisco-icon.png" />
+  <img alt="AWS" width="40px" style="margin-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Debian" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 </p>
 
 ---
