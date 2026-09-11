@@ -7,6 +7,7 @@ I find joy in understanding how things actually work, Cloud, DevOps technologies
 My main focus throughout this journey is understanding how to build, manage, automate, and ultimately secure infrastructure and operations.
 <a href="https://www.youtube.com/@TheaterStar">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/40fe9c2……7374796…" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-     badge&labelColor=CE4630" style="max-width: 100%;">
+</a>
 
 <p align="center">
   <img src="https://i3.ruliweb.com/ori/17/07/08/15d217bd71734af6a.gif" width="400">
