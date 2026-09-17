@@ -2,7 +2,7 @@
 
 **`Cybersecurity | DevOps | Cloud Enthusiast`**
 
-I'm an DevOps and Cybersecurity enthusiast. Currently I'm learning different technologies such as Docker, Linux and many other skills. 
+I'm a DevOps and Cybersecurity enthusiast. Currently I'm learning different technologies such as Docker, Linux and many other skills. 
 I find joy in understanding how things actually work, Cloud, DevOps technologies, Security Tools and automation of repetitive tasks.
 My main focus throughout this journey is understanding how to build, manage, automate, and ultimately secure infrastructure and operations.
 <p align="center">
