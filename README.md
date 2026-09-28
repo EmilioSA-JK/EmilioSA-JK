@@ -13,7 +13,7 @@ My main focus throughout this journey is understanding how to build, manage, aut
 </a>
 
 <p align="center">
-  <img src="https://i.redd.it/i2nvxysn20161.gif" >
+  <img src="https://i.redd.it/i2nvxysn20161.gif" width="400" >
 </p>
 
 ---
