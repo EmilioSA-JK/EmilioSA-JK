@@ -13,7 +13,7 @@ My main focus throughout this journey is understanding how to build, manage, aut
 </a>
 
 <p align="center">
-  <img src="https://i3.ruliweb.com/ori/17/07/08/15d217bd71734af6a.gif" width="400">
+  <img src="https://mx.pinterest.com/pin/1076078904718374532/" width="400">
 </p>
 
 ---
