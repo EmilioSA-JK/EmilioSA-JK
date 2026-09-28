@@ -13,7 +13,7 @@ My main focus throughout this journey is understanding how to build, manage, aut
 </a>
 
 <p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=1076078904718374532 "width="400">
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1076078904718374532" width="400" frameborder="0" scrolling="no" ></iframe>
 </p>
 
 ---
