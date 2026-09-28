@@ -13,7 +13,7 @@ My main focus throughout this journey is understanding how to build, manage, aut
 </a>
 
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/1654474664011507433/96C880DDEC3B9B948F860900F16DC658DB137724/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="400" >
+  <img src="https://images.steamusercontent.com/ugc/1654474664011507433/96C880DDEC3B9B948F860900F16DC658DB137724/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" >
 </p>
 
 ---
