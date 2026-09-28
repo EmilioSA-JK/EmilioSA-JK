@@ -13,7 +13,7 @@ My main focus throughout this journey is understanding how to build, manage, aut
 </a>
 
 <p align="center">
-  <img src="https://gifdb.com/gif/date-a-live-kurumi-tokisaki-finger-on-chin-kojtis8w7cont9ph.html" width="400" >
+  <img src="https://i3.ruliweb.com/ori/17/07/08/15d217bd71734af6a.gif" width="400">
 </p>
 
 ---
